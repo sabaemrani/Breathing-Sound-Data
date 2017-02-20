@@ -1,5 +1,7 @@
 # Breathing Sound Data
-This dataset includes 30 normal breathing sounds and 37 wheeze sounds collected from publicly available datasets.
+This dataset includes 30 normal breathing sounds and 37 wheeze sounds collected from publicly available datasets. 
+
+This dataset is made available for raeserch purposes. For commercial use, contact the owners of the original sounds listed in "original dat asources".
 
 Relevant papers:
 
