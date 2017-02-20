@@ -18,4 +18,4 @@ Citation Request:
 
 
 
-If you use this data please cite: Emrani, Saba, Thanos Gentimis, and Hamid Krim. "Persistent homology of delay embeddings and its application to wheeze detection." IEEE Signal Processing Letters 21.4 (2014): 459-463.
+If you use this dataset please cite: Emrani, Saba, Thanos Gentimis, and Hamid Krim. "Persistent homology of delay embeddings and its application to wheeze detection." IEEE Signal Processing Letters 21.4 (2014): 459-463.
